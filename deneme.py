@@ -9,6 +9,6 @@ if (yas==20 ) :
 
     def deneme():
        print("yazdık")
-
+print("yazkljsjjlkfskdlfjkdsjjdsgjldjdslgjgldsk")
 
 deneme()
